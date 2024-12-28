@@ -10,7 +10,7 @@ const arrayindex = [
     {
         id: 2,
         precio: "$550000",
-        img: ".imagenes productos/placas de video/2060super.png",
+        img: "imagenes productos/placas de video/2060super.png",
         nombre: "NVIDIA RTX 2060S",
         boton: "Comprar"
     },
